@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "moviemod:chucky_bucket"
+    },
+    "title": {
+      "translate": "advancement.moviemod.craft_chucky_bucket.title"
+    },
+    "description": {
+      "translate": "advancement.moviemod.craft_chucky_bucket.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "moviemod:root",
+  "criteria": {
+    "has_chucky_bucket": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["moviemod:chucky_bucket"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  }
+} 

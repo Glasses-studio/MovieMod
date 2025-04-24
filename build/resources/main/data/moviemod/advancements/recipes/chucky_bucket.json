@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "moviemod:chucky_bucket",
+      "moviemod:chucky_bucket_alt"
+    ]
+  },
+  "criteria": {
+    "has_bucket": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:bucket"]
+          }
+        ]
+      }
+    },
+    "has_chain": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:chain"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_bucket",
+      "has_chain"
+    ]
+  ]
+} 

@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "moviemod:item/domination_sphere"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "minecraft:custom_model_data": 1
+      },
+      "model": "moviemod:item/domination_sphere_3d"
+    }
+  ]
+} 

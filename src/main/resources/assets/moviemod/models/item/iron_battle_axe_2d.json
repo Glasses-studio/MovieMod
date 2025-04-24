@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "moviemod:item/iron_battle_axe_2d"
+  }
+}

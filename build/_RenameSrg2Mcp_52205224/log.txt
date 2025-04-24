@@ -1,0 +1,15 @@
+Java Launcher: C:\Users\metla\.gradle\jdks\eclipse_adoptium-17-amd64-windows\jdk-17.0.14+7\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\metla\.gradle\caches\modules-2\files-2.1\software.bernie.geckolib\geckolib-forge-1.20.1\4.2.2\1f40b7a39c9fc126934324d1d143a6764505d504\geckolib-forge-1.20.1-4.2.2.jar, --output, C:\Users\metla\.gradle\caches\forge_gradle\deobf_dependencies\software\bernie\geckolib\geckolib-forge-1.20.1\4.2.2_mapped_parchment_2023.06.26-1.20.1\geckolib-forge-1.20.1-4.2.2_mapped_parchment_2023.06.26-1.20.1.jar, --mcp, C:\Users\metla\.gradle\caches\parchmentgradle\org\parchmentmc\data\parchment-1.20.1\2023.06.26\parchment-1.20.1-2023.06.26.zip, --strip-signatures'
+Classpath:
+ - C:\Users\metla\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: D:\project\java\MovieMod\build\_RenameSrg2Mcp_52205224
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\metla\.gradle\caches\modules-2\files-2.1\software.bernie.geckolib\geckolib-forge-1.20.1\4.2.2\1f40b7a39c9fc126934324d1d143a6764505d504\geckolib-forge-1.20.1-4.2.2.jar
+Output: C:\Users\metla\.gradle\caches\forge_gradle\deobf_dependencies\software\bernie\geckolib\geckolib-forge-1.20.1\4.2.2_mapped_parchment_2023.06.26-1.20.1\geckolib-forge-1.20.1-4.2.2_mapped_parchment_2023.06.26-1.20.1.jar
+MCP:    C:\Users\metla\.gradle\caches\parchmentgradle\org\parchmentmc\data\parchment-1.20.1\2023.06.26\parchment-1.20.1-2023.06.26.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

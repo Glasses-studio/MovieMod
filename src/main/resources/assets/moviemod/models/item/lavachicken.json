@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "moviemod:item/lavachicken_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "moviemod:item/lavachicken_2d"
+    },
+    "ground": {
+      "parent": "moviemod:item/lavachicken_2d"
+    },
+    "fixed": {
+      "parent": "moviemod:item/lavachicken_2d"
+    }
+  },
+  "textures": {
+    "particle": "moviemod:item/lavachicken_3d"
+  }
+}

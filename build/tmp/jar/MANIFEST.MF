@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: moviemod
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: moviemod
+Implementation-Version: 1.20.1-BETA-1.0
+Implementation-Vendor: 
+Implementation-Timestamp: 2025-04-20T14:23:16+0300
+MixinConfigs: moviemod.mixins.json
+

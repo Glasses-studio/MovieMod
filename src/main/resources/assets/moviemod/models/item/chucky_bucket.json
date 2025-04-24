@@ -1,0 +1,18 @@
+{
+    "parent": "minecraft:item/handheld",
+    "loader": "forge:separate_transforms",
+    "base": {
+      "parent": "moviemod:item/chucky_bucket_3d"
+    },
+    "perspectives": {
+      "gui": {
+        "parent": "moviemod:item/chucky_bucket_2d"
+      },
+      "ground": {
+        "parent": "moviemod:item/chucky_bucket_2d"
+      },
+      "fixed": {
+        "parent": "moviemod:item/chucky_bucket_2d"
+      }
+    }
+}

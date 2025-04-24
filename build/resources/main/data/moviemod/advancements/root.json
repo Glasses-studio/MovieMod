@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:blue_wool"
+    },
+    "title": {
+      "translate": "advancement.moviemod.root.title"
+    },
+    "description": {
+      "translate": "advancement.moviemod.root.description"
+    },
+    "background": "minecraft:textures/block/blue_wool.png",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "automatic": {
+      "trigger": "minecraft:tick"
+    }
+  }
+} 

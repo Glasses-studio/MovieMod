@@ -1,0 +1,24 @@
+{
+  "mines_ambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "moviemod:ambient/mines_ambient1",
+        "stream": true
+      },
+      {
+        "name": "moviemod:ambient/mines_ambient2",
+        "stream": true
+      }
+    ]
+  },
+  "mines_teleport": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "moviemod:player/mines_teleport",
+        "stream": false
+      }
+    ]
+  }
+} 
